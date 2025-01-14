@@ -42,10 +42,12 @@ Aurora Library is a virtual library platform designed to provide users with easy
 
 
 ### Home Page
-![Home Page](public/screenshots/homepage.png)
+![Home Page](public/home.png)
 
 ### Book Listing
-![Book Listing](public/screenshots/booklisting.png)
+![Book Listing](public/books.png)
+![Book Description](public/description.png)
+
 
 ## Contributing
 
