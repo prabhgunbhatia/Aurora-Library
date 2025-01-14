@@ -1,3 +1,6 @@
+### Home Page
+![Home Page](public/home.png)
+
 # Project Overview 
 
 Aurora Library is a virtual library platform designed to provide users with easy access to digital content in the form of PDFs. This repository contains the frontend for the Aurora Library, built using modern web technologies for an optimized user experience.
@@ -41,12 +44,22 @@ Aurora Library is a virtual library platform designed to provide users with easy
 - `npm run start`: Runs the production build.
 
 
-### Home Page
-![Home Page](public/home.png)
+
 
 ### Book Listing
 ![Book Listing](public/books.png)
 ![Book Description](public/description.png)
+
+
+
+## Backend Information
+
+The Aurora Library backend is developed using MongoDB, Express.js, and Node.js. It provides RESTful APIs for:
+- User authentication and management.
+- Book creation and retrieval.
+- Secure transactions for content access.
+
+For more information about the backend services and API details, visit the [Aurora Library Backend Repository](<backend-repo-url>).
 
 
 ## Contributing
