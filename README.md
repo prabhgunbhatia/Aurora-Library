@@ -59,7 +59,7 @@ The Aurora Library backend is developed using MongoDB, Express.js, and Node.js. 
 - Book creation and retrieval.
 - Secure transactions for content access.
 
-For more information about the backend services and API details, visit the [Aurora Library Backend Repository](<backend-repo-url>).
+For more information about the backend services and API details, visit the [Aurora Library Backend Repository](<https://github.com/prabhgunbhatia/Aurora-Library-Backend>).
 
 
 ## Contributing
